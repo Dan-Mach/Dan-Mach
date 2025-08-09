@@ -6,11 +6,11 @@
 ## 🔧 Tech Stack
 - **Languages:** Rust, C, C++, Solidity, Python, Javascript
 - **Frameworks & Tools:**Django, React, Git, Linux, VS Code
-- **Domains:** Game engines, Blockchain, Competitive programming
+- **Domains:** Game engines, Blockchain, Competitive programming, Websites
 
 ---
 
-## 📊 GitHub Stats (All-Time)
+## 📊 GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Mach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&layout=compact&theme=tokyonight)
 
