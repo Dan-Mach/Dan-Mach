@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mach
 
-🚀 Developer passionate about building efficient, powerful, and creative software — from chess engines to blockchain smart contracts.
+🚀 Developer passionate about building efficient, powerful, and creative software — from chess engines to website.
 
 ---
 
