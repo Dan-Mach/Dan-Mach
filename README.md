@@ -4,8 +4,8 @@
 
 
 ## 🔧 Tech Stack
-- **Languages:** Rust, C, C++, Solidity, Python
-- **Frameworks & Tools:** Git, Linux, VS Code
+- **Languages:** Rust, C, C++, Solidity, Python, Javascript
+- **Frameworks & Tools:**Django, React, Git, Linux, VS Code
 - **Domains:** Game engines, Blockchain, Competitive programming
 
 ---
@@ -25,5 +25,3 @@
 ## 📫 Connect with Me
 - 💼 [GitHub Profile](https://github.com/Dan-Mach)
 - 📧 danreech83@gmail.com
-
-
