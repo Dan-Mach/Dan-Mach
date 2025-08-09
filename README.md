@@ -2,14 +2,6 @@
 
 🚀 Developer passionate about building efficient, powerful, and creative software — from chess engines to website.
 
----
-
-## 🛠️ Projects I Work On
-- ♟ **[rusty-chess](https://github.com/Dan-Mach/rusty-chess)** — A chess engine written in Rust.
-- ♟ **[chess](https://github.com/Dan-Mach/chess)** — A C-based chess game.
-- ♟ **[Stockfish](https://github.com/Dan-Mach/Stockfish)** — Fork of the famous UCI chess engine, built for speed and strength.
-
----
 
 ## 🔧 Tech Stack
 - **Languages:** Rust, C, C++, Solidity, Python
