@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack
 - **Languages:** Rust, C, C++, Solidity, Python, Javascript
-- **Frameworks & Tools:**Django, React, Git, Linux, VS Code
+- **Frameworks & Tools:** Django, React, Git, Linux, VS Code
 - **Domains:** Game engines, Blockchain, Competitive programming, Websites
 
 ---
