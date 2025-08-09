@@ -10,8 +10,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Mach&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats (All-Time)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Mach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&layout=compact&theme=tokyonight)
 
 ---
