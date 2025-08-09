@@ -7,7 +7,6 @@
 ## 🛠️ Projects I Work On
 - ♟ **[rusty-chess](https://github.com/Dan-Mach/rusty-chess)** — A chess engine written in Rust.
 - ♟ **[chess](https://github.com/Dan-Mach/chess)** — A C-based chess game.
-- ⚡ **[Blockchain](https://github.com/Dan-Mach/Blockchain)** — Smart contracts & blockchain experiments in Solidity.
 - ♟ **[Stockfish](https://github.com/Dan-Mach/Stockfish)** — Fork of the famous UCI chess engine, built for speed and strength.
 
 ---
@@ -28,14 +27,11 @@
 ## 🏆 Achievements
 - 🎯 Consistent contributions in multiple domains
 - ♟ Built multiple chess engines from scratch
-- 📜 Developed blockchain smart contracts
 
 ---
 
 ## 📫 Connect with Me
 - 💼 [GitHub Profile](https://github.com/Dan-Mach)
-- 📧 *Add your email here if you want*
+- 📧 danreech83@gmail.com
 
----
 
-⭐ *“Code is the closest thing we have to magic.”*
