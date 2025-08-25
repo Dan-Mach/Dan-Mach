@@ -4,20 +4,26 @@
 
 
 ## 🔧 Tech Stack
-- **Languages:** Rust, C, C++, Solidity, Python, Javascript
+- **Languages:** Rust, C, C++, Python, JavaScript, Solidity, TypeScript, PHP, HTML, Makefile, Jupyter Notebook
 - **Frameworks & Tools:** Django, React, Git, Linux, VS Code
 - **Domains:** Game engines, Blockchain, Competitive programming, Websites
 
 ---
 
 ## 📊 GitHub Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&langs_count=15&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-Mach&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dan-Mach&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 - 🎯 Consistent contributions in multiple domains
 - ♟ Built multiple chess engines from scratch
+- 🔗 Blockchain and web development projects
+- 🧠 Machine learning project on brain tumor detection
 
 ---
 
