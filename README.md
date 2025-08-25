@@ -13,10 +13,6 @@
 ## 📊 GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&langs_count=15&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-Mach&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dan-Mach&theme=tokyonight)
-
 ---
 
 ## 🏆 Achievements
