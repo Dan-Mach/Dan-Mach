@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mach
 
-🚀 Developer passionate about building efficient, powerful, and creative software — from chess engines to website.
+🚀 Developer passionate about building efficient, powerful, and creative software — from chess engines to websites.
 
 
 ## 🔧 Tech Stack
@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mach&langs_count=10&theme=tokyonight)
 
 ---
 
