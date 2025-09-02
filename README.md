@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mach
 
-🚀 Developer passionate about building efficient, powerful, and creative software — from chess engines to websites.
+🚀 Developer passionate about building efficient, powerful, and creative software.
 
 ## 🔧 Tech Stack
 - **Languages:** Rust, C, C++, Python,React, JavaScript, Solidity, TypeScript, PHP, HTML, Makefile, Jupyter Notebook
